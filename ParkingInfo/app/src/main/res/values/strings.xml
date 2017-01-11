@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">서울시 공영주차장 주차가능대수</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ParkingName">주차장명</string>
+    <string name="MaxCnt">최대수</string>
+    <string name="Cnt">잔여수</string>
+    <string name="Address">주소</string>
+    <string name="TelNo">전화번호</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
