@@ -6,7 +6,8 @@ Android Studio or IntelliJ IDEA
 AndroidSDK
   - Tools
     Android SDK Platform-tools 25.0.3
-    Android SDK Build-tools 24.0.3
+    Android SDK Build-tools 24.0.3 (Parking_Info)
+    Android SDK Build-tools 23.0.1 (NFC_EMV)
   - Android 7.0 (API24)
     SDK Platform
   - Android 6.0 (API23)
